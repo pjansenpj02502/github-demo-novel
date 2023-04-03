@@ -1,8 +1,0 @@
-- 4 tomatoes
-- 6 shallots
-- 1 fennel bulb
-- couple of seed potatos
-- potatos 5
-- defined in branch1
-- defined in branch2
-- defined in master
